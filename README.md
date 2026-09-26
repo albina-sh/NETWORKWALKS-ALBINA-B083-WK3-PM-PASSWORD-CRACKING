@@ -98,6 +98,7 @@ To recover the password of the same protected PDF using the Networkwalks Hash Ca
 I opened the Networkwalks Hash Calculator using Google Chrome and uploaded the password-protected PDF. The tool generated a hash from the PDF.
 
 <img width="1282" height="887" alt="Screenshot 2026-09-26 154817" src="https://github.com/user-attachments/assets/29343cf3-614c-47b5-97b5-f2697b3283ab" />
+
 ---
 
 ### Step 2 – Use the Generated Hash
@@ -105,6 +106,7 @@ I opened the Networkwalks Hash Calculator using Google Chrome and uploaded the p
 The generated hash was used with the Networkwalks Password Cracker to perform the password-cracking process.
 
 <img width="1835" height="756" alt="Screenshot 2026-09-26 152925" src="https://github.com/user-attachments/assets/42841fb6-81b0-4a1e-9bba-354ddb574622" />
+
 ---
 
 ### Step 3 – Verify the Recovered Password
@@ -141,28 +143,26 @@ I successfully recovered the password of a protected PDF using two different met
 ---
 
 # 👨‍🏫 Mentor
+---
 
-**Waqas Karim (CCIE)**
-Networkwalks Cybersecurity Program
+Waqas Karim (CCIE)
+
+Thank you for the valuable technical guidance and hands-on learning experience throughout the internship.
+
 
 ---
 
 # 👤 Author
+---
 
-**Cybersecurity Professional – B083**
-Networkwalks Cybersecurity Program
+Albina Shakil
+
+Cybersecurity Learner B083
+
+LinkedIn: https://www.linkedin.com/in/albina-shakil-3a08952a4/
 
 ---
 
-# 📌 Project Information
-
-**Program:** Networkwalks Cybersecurity Program
-**Batch:** B083
-**Week:** 3
-**Modules:** W3-PM1 & W3-PM2
-**Topic:** Password Cracking
-**Platform:** Windows / Google Chrome
-**Purpose:** Educational and Authorized Cybersecurity Training
 
 # 📌 Project Information
 
@@ -173,3 +173,4 @@ Networkwalks Cybersecurity Program
 **Topic:** Password Cracking
 **Platform:** Windows / Google Chrome
 **Purpose:** Educational and Authorized Cybersecurity Training
+
